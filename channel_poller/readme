@@ -1,0 +1,3 @@
+Poll channels from the teleport fazzt servers and populate the TS channels, beams, and beam_channels tables
+
+run as 'nohup clockwork ChannelPollerClockwork.rb &'

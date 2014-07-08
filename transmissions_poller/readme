@@ -1,0 +1,3 @@
+Poll sendtransmissions from the teleport fazzt servers to get current transnmissions
+
+run as 'nohup clockwork CurrentTransmissionsPollerClockwork.rb &'

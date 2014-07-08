@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beam-channel-settings type="array">
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>YCONUS</name>
+      <teleport>
+        <title>carlsbad</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>YCONUS</name>
+      <teleport>
+        <title>carlsbad</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>YCONUS</name>
+      <teleport>
+        <title>carlsbad</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>KCONUS</name>
+      <teleport>
+        <title>carlsbad</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>KCONUS</name>
+      <teleport>
+        <title>carlsbad</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>KCONUS</name>
+      <teleport>
+        <title>carlsbad</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>CARIB</name>
+      <teleport>
+        <title>miami</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>CARIB</name>
+      <teleport>
+        <title>miami</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>CARIB</name>
+      <teleport>
+        <title>miami</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>NPOR</name>
+      <teleport>
+        <title>hawaii</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>NPOR</name>
+      <teleport>
+        <title>hawaii</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>NPOR</name>
+      <teleport>
+        <title>hawaii</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>NAOR</name>
+      <teleport>
+        <title>laurel</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>NAOR</name>
+      <teleport>
+        <title>laurel</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>NAOR</name>
+      <teleport>
+        <title>laurel</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>EMEA</name>
+      <teleport>
+        <title>usingen</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>EMEA</name>
+      <teleport>
+        <title>usingen</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>EMEA</name>
+      <teleport>
+        <title>usingen</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>FOCUS-Chan1	</name>
+    <beam>
+      <name>EMEA</name>
+      <teleport>
+        <title>usingen</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>FOCUS-Chan2</name>
+    <beam>
+      <name>EMEA</name>
+      <teleport>
+        <title>usingen</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>FOCUS-Chan3</name>
+    <beam>
+      <name>EMEA</name>
+      <teleport>
+        <title>usingen</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>Beam1</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>Beam1</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>Beam2</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">3</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>Beam2</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">4</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>Beam3</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">5</id-channel>
+    <bitrate type="integer">31250</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>Beam3</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">6</id-channel>
+    <bitrate type="integer">125000</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>Beam4</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">7</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>Beam4</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">8</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>EASIA</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>EASIA</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>EASIA</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>EASIA2</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>EASIA2</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>EASIA2</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">2300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>EIOR</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">3100</id-channel>
+    <bitrate type="integer">31250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>EIOR</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">3200</id-channel>
+    <bitrate type="integer">125000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>EIOR</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">3300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>WIOR</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">4100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>WIOR</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">4200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>WIOR</name>
+      <teleport>
+        <title>yokohama</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">4300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>A</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan1</name>
+    <beam>
+      <name>BRAZIL</name>
+      <teleport>
+        <title>brazil</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1100</id-channel>
+    <bitrate type="integer">61250</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan2</name>
+    <beam>
+      <name>BRAZIL</name>
+      <teleport>
+        <title>brazil</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1200</id-channel>
+    <bitrate type="integer">237500</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+  <beam-channel-setting>
+    <name>Chan3</name>
+    <beam>
+      <name>BRAZIL</name>
+      <teleport>
+        <title>brazil</title>
+      </teleport>
+    </beam>
+    <id-channel type="integer">1300</id-channel>
+    <bitrate type="integer">375000</bitrate>
+    <status>P</status>
+  </beam-channel-setting>
+</beam-channel-settings>

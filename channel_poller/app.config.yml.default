@@ -1,0 +1,69 @@
+# app.config.yml.default
+# Copy to app.config.yml and set username/password information
+# Search for **setme** for values that must be set for the environment
+production:
+  cms:
+    host: 192.168.18.25
+    path: json-rest.php
+    username: **setme**
+    password: **setme**
+    use: true
+  es1:
+    host: es1.dallas.ipmc.kvh.com
+    transmission-mode-id: D589EE6C-6399-11E2-76A4-005056820324  # Production
+    queue-id: 199201F2-65D9-11E3-3B87-005056825C7B
+  app:
+    network-share: /Volumes/packages
+    auth-use: false
+    auth-username: **setme**
+    auth-password: **setme**
+
+test:
+  cms:
+    host: 192.168.18.26
+    path: json-rest.php
+    username: **setme**
+    password: **setme**
+    use: true
+  es1:
+    host: 192.168.11.40 # es1.ipmc-lab
+    transmission-mode-id: AAB6CEE4-E6A6-11E3-CA91-000C29831A9A  # es1.ipmc-lab with reports
+    queue-id: 2BE0C610-E769-11E3-5DBC-000C29831A9A # es1.ipmc-lab 9001. Transmission Service Test Fast
+  app:
+    network-share: /Volumes/packages
+    auth-use: false
+    auth-username: **setme**
+    auth-password: **setme**
+
+development:
+  cms:
+    password: dummy
+    host: 192.168.18.26
+    path: json-rest.php
+    username: **setme**
+    password: **setme**
+    use: false
+  acu:
+    ssh-ip: 192.168.195.16
+    ssh-port: 2222
+    ssh-username: **setme**
+    ssh-password: **setme**
+    sw-serial-number: S0207102202AA-00000
+    license-file: PC170623.kcl
+    site-id: 170623
+  es1:
+    host: 192.168.11.40 # es1.ipmc-lab
+    transmission-mode-id: AAB6CEE4-E6A6-11E3-CA91-000C29831A9A  # es1.ipmc-lab with reports
+#    transmission-mode: D04F3A76-DB19-11E3-8E9C-0CC47A025052  # KenCast Dev JCroy
+#    transmission-mode: D04F3A76-DB19-11E3-8E9C-0CC47A025052  # different one?
+#    queue-id: 2BE0C610-E769-11E3-5DBC-000C29831A9A # es1.ipmc-lab 9001. Transmission Service Test Fast
+    queue-id: 039E875A-E769-11E3-5CAA-000C29831A9A # es1.ipmc-lab 9001. Transmission Service Test Slow
+#    queue-id: E751E1BE-E7A4-11E3-6A98-0CC47A025052 # fazzt-dev Jerome Slow
+#    queue-id: 0C5F2700-E7A5-11E3-148D-0CC47A025052 # fazzt-dev Jerome Fast
+  ts:
+    url: http://foo:bar@localhost:4567/ts/
+  app:
+    network-share: /Volumes/packages
+    auth-use: false
+    auth-username: **setme**
+    auth-password: **setme**

@@ -1,0 +1,13 @@
+# app.config.yml.default
+# Copy to app.config.yml
+production:
+  app:
+    log-path: /var/log/current_transmissions_poller.log
+
+test:
+  app:
+    log-path: /var/log/current_transmissions_poller.log
+
+development:
+  app:
+    log-path: /var/log/current_transmissions_poller.log

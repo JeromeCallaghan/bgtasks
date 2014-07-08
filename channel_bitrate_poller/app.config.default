@@ -1,0 +1,27 @@
+{
+  "log-path" : "/var/log/channel_poller.log",
+  "kencast-url" : "http://es1.usingen.ipmc.kvh.com/ws/json-rpc/InvokeFazztFunction.fzt",
+  "netfeed-url" : "http://es1.dallas.ipmc.kvh.com/viasat/kvh-netw_status.xml",
+  "netname1" : "DE1AL1AC4",
+  "netname2" : "DE1AL1AC4-ACSM",
+  "max-kb-bw" : 1900,
+  "kencast-channel" : 7,
+  "modcode" : 25,
+  "max-speeds" : [
+    { "mc" : 16, "max" : 23880000.0},
+    { "mc" : 18, "max" : 17579000.0},
+    { "mc" : 20, "max" : 15780000.0},
+    { "mc" : 22, "max" : 13079000.0},
+    { "mc" : 24, "max" : 7680000.0},
+    { "mc" : 25, "max" : 7889000.0},
+    { "mc" : 26, "max" : 6054000.0},
+    { "mc" : 28, "max" : 4359000.0},
+    { "mc" : 29, "max" : 3270000.0},
+    { "mc" : 31, "max" : 2180000.0},
+    { "mc" : 33, "max" : 1634000.0},
+    { "mc" : 35, "max" : 1308000.0},
+    { "mc" : 52, "max" : 32879000.0},
+    { "mc" : 54, "max" : 29279000.0}
+  ],
+  "kencast-user" : "",
+  "kencast-pw" : ""
